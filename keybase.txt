@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/newbold
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://misc.pics
+  * I am newbold (https://keybase.io/newbold) on keybase.
+  * I have a public key with fingerprint 1DE3 D2E2 4F92 D62F 7E8E  EEAF 4908 15B4 772C BDB8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01013559812a835a714d4aa66326800571b47507f2768dbd4d0ba93cf0e2f3cf59100a",
+            "fingerprint": "1de3d2e24f92d62f7e8eeeaf490815b4772cbdb8",
+            "host": "keybase.io",
+            "key_id": "490815b4772cbdb8",
+            "kid": "01013559812a835a714d4aa66326800571b47507f2768dbd4d0ba93cf0e2f3cf59100a",
+            "uid": "0f114c429282130be1f313e743676d00",
+            "username": "newbold"
+        },
+        "revoke": {
+            "sig_ids": [
+                "5a929b118795c614b480c8aabf1441f8535bd5625a1e5771d3167dedab1266650f"
+            ]
+        },
+        "service": {
+            "hostname": "misc.pics",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1493996653,
+    "expire_in": 157680000,
+    "prev": "83fdba4ca0210e6f2f98475ca48607c99d462c8560b9f41789cd14c64cca990b",
+    "seqno": 68,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.70
+Comment: https://keybase.io/crypto
+
+yMJxAnicrZJdbFRFGIa3WgWqVogo1TSKE/wJNs3MnJk5M+uN0TRRkxqMTSmpZjO/
+25PdPWe7Z1ukhaIN8efCRA2BGIpUL8TeGBoJiVEIaI0hiMbERFQKUjH8XAiIJqU0
+xDkV77z06stM3u/53nnnm7rtxlxTQ/8Df4w+e2XmVMORQxcGcutu3VoZBioxG0B+
+GJTsQrFlY9N6oRQZkAcQQRRQKjjCkgdUhogYIiVjAWYcQhoiRUIKQ4dDxo0yxEAl
+RaAdtNj5QgWCUII24KK4aGvVWhTXPRYZGxhsMXECG4ZdaLm1VjoiIEfUI0OslVHc
+N/YladbhzSmZ2vYo8Xf+UFiw9x/6/9n3wD84hxDRBAvMMQqgssgFKLAhCVjIDISZ
+MLW1WFasV8d2vUrKBmxqAzU7mJRsFmsaFb3nFOR7AZUCC4UQDwXVDBFFONRcSuUQ
+IchxGlBlKMNUIkvDEJkAsdBYIxXCjDEKHXjBs/3AwUgvwLOQrg+vRKlur0Y69Z6q
+taSe6KTsr/vq9Wo+c1TfUM1k660qXAcUVBQb/z2+YdDW0iiJQR55pa5HGREREQjh
+xwZtwL5YjWq2EGUKGmZJQpiNsYMeyQNnlCRaQoygZQ47wX3IWhLOYKiFMIRhzSmD
+SjiCQi608akyorUUAiqQPak/TkCece9TFj3TpxbL+kDNgk2fH3y+MdfQlLv5phuy
+vc01LVn67za35Bfnti/aXRw/MDC+bc9YZc/80S8/ni19Na2mD/3QfGrH7NXdrufe
+x3buuJjr2MY/fAk/vvlPNtf7U/+nXae/S841r/mid9nd5qPeE61i4omOE8/t7xvr
+6hFDp6f37toKl3f+/M4ZfGTlZ6+tW/NIEV7aOLk6np/6feS94YtbOp7+unp85Oo3
+L79x6dzisSulyb1/jc53P3p+pOmDV2fW9j3c+srrhZXNTx4balnSfuaeA8tGJ+HG
+qf4WVmlfffb8TtLduWtoYt99d2xZ4Z7qvLx0fPudF/avmm5svayW//J2dPb+g3Nd
+i679esuKZ2bfOiYm3j36UPdM44PvHy+fvKvw/eY3rx0un/xxrue3VZ/c3vDt4b8B
+ZYNdfQ==
+=5Hpy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/newbold
+
+==================================================================
