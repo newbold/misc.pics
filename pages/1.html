@@ -5,59 +5,12 @@
 <meta name="description" content="A nice selection of miscellaneous pictures. Share and enjoy.">
 <meta charset="utf-8">
 <meta name="viewport" content="width=width">
-<style type="text/css">
-* {
-	box-sizing: border-box;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-	font-weight: normal;
-}
-html {
-	overflow-y: scroll;
-}
-body {
-	margin: 5px;
-	text-align: center;
-	font-family: sans-serif;
-	background: #fff;
-	color: #000;
-}
-.grid:after {
-	content: '';
-	display: block;
-	clear: both;
-}
-.grid-sizer, .grid-item {
-	width: 33%;
-}
-.grid-item {
-	float: left;
-}
-.grid-item img {
-	display: block;
-	width: 100%;
-	padding: 10px;
-	border: 0;
-}
-h1 {
-	display: block;
-	font-size: 3em;
-}
-#after {
-	padding: 1em 0 3em 0;
-	font-size: 3em;
-}
-a:link,a:visited,a:hover,a:active{ color: #000; }
-@media only screen and (min-width: 0px)    and (max-width: 400px)  { .grid-sizer, .grid-item { width: 100%; } }
-@media only screen and (min-width: 401px)  and (max-width: 800px)  { .grid-sizer, .grid-item { width: 50%; } }
-@media only screen and (min-width: 801px)  and (max-width: 1200px) { .grid-sizer, .grid-item { width: 33%; } }
-@media only screen and (min-width: 1601px) and (max-width: 2000px) { .grid-sizer, .grid-item { width: 25%; } }
-@media only screen and (min-width: 2001px) and (max-width: 2400px) { .grid-sizer, .grid-item { width: 20%; } }
-@media only screen and (min-width: 2401px) and (max-width: 2800px) { .grid-sizer, .grid-item { width: 15%; } }
-@media only screen and (min-width: 2801px)                         { .grid-sizer, .grid-item { width: 10%; } }
-</style>
+<link rel="stylesheet" type="text/css" href="/css/style.css">
 </head>
 <body>
-<h1>these are misc.pics</h1>
+<div class="info">
+misc.pics / <a href="/pages/1">1</a> <a href="/pages/2">2</a> <a href="/pages/3">3</a> <a href="/pages/4">4</a>  / by <a href="https://neatnik.net">neatnik</a>
+</div>
 <div class="grid">
 <div class="grid-sizer"></div>
 <div class="grid-item"><a href="/pics/00bf92f6710527190fc27af4d6069438.jpg"><img src="/pics/00bf92f6710527190fc27af4d6069438.jpg" alt="misc pic"></a></div>
@@ -160,11 +113,10 @@ a:link,a:visited,a:hover,a:active{ color: #000; }
 <div class="grid-item"><a href="/pics/4c1b40a054fae34095e74af7050fed57.jpg"><img src="/pics/4c1b40a054fae34095e74af7050fed57.jpg" alt="misc pic"></a></div>
 <div class="grid-item"><a href="/pics/4c90e3ba15876bdca2d68f1402d0051f.jpg"><img src="/pics/4c90e3ba15876bdca2d68f1402d0051f.jpg" alt="misc pic"></a></div>
 </div>
-<div id="after">
-<p><a href="/pages/2">there are more</a></p>
-<p>this has been misc.pics</p>
-<p><a href="https://neatnik.net/">a Neatnik product</a></p>
-</div><script src='/scripts/jquery.js'></script>
+<div class="info">
+misc.pics / <a href="/pages/1">1</a> <a href="/pages/2">2</a> <a href="/pages/3">3</a> <a href="/pages/4">4</a>  / by <a href="https://neatnik.net">neatnik</a>
+</div>
+<script src='/scripts/jquery.js'></script>
 <script src='/scripts/masonry.js'></script>
 <script src='/scripts/imagesloaded.js'></script>
 <script>var $grid=$('.grid').masonry({itemSelector:'.grid-item',percentPosition:true,columnWidth:'.grid-sizer'});$grid.imagesLoaded().progress(function(){$grid.masonry();});</script>
