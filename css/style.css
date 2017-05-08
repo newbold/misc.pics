@@ -51,14 +51,14 @@ body {
 
 .info a:hover,
 .info a:active {
-	color: #ccc;
+	color: #2db116;
 	text-decoration: none;
 	width: 1em;
 	padding: .1em;
 }
 
 .active {
-	background: #000;
+	background: #2db116;
 	color: #fff !important;
 	border-radius: .2em;
 	padding: .1em .3em !important;
