@@ -47,13 +47,7 @@ body {
 	background: #ccc;
 	border-radius: .25em;
 	color: #000;
-}
-
-a:link,
-a:visited,
-a:hover,
-a:active {
-	color: #000;
+	text-decoration: none;
 }
 
 @media only screen and (min-width: 0px)    and (max-width: 400px)  { .grid-sizer, .grid-item { width: 100%; } }
