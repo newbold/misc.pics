@@ -55,7 +55,7 @@ body {
 	background: #000;
 	color: #fff !important;
 	border-radius: .2em;
-	padding: .1em .2em !important;
+	padding: .1em .3em !important;
 }
 
 @media only screen and (min-width: 0px)    and (max-width: 400px)  { .grid-sizer, .grid-item { width: 100%; } }
