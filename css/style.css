@@ -42,10 +42,17 @@ body {
 }
 
 .info a:link,
-.info a:visited,
+.info a:visited {
+	color: #000;
+	text-decoration: none;
+	width: 1em;
+	padding: .1em;
+}
+
 .info a:hover,
 .info a:active {
 	color: #000;
+	background: #ccc;
 	text-decoration: none;
 	width: 1em;
 	padding: .1em;
