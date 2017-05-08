@@ -40,6 +40,15 @@ body {
 	padding: 1em;
 }
 
+.info a:link,
+.info a:visited,
+.info a:hover,
+.info a:active {
+	background: #ccc;
+	border-radius: .25em;
+	color: #000;
+}
+
 a:link,
 a:visited,
 a:hover,
