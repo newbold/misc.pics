@@ -46,11 +46,13 @@ body {
 .info a:active {
 	color: #000;
 	text-decoration: none;
+	width: 1em;
+	padding: .5em;
 }
 
 .active {
 	background: #000;
-	color: #fff;
+	color: #fff !important;
 	border-radius: .5em;
 }
 
