@@ -44,10 +44,14 @@ body {
 .info a:visited,
 .info a:hover,
 .info a:active {
-	background: #ccc;
-	border-radius: .25em;
 	color: #000;
 	text-decoration: none;
+}
+
+.active {
+	background: #000;
+	color: #fff;
+	border-radius: .5em;
 }
 
 @media only screen and (min-width: 0px)    and (max-width: 400px)  { .grid-sizer, .grid-item { width: 100%; } }
