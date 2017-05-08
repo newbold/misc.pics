@@ -51,8 +51,7 @@ body {
 
 .info a:hover,
 .info a:active {
-	color: #000;
-	background: #ccc;
+	color: #ccc;
 	text-decoration: none;
 	width: 1em;
 	padding: .1em;
