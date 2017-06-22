@@ -58,10 +58,7 @@ body {
 }
 
 .active {
-	background: #2db116;
-	color: #fff !important;
-	border-radius: .2em;
-	padding: .1em .3em !important;
+	color: #2db116 !important;
 }
 
 @media only screen and (min-width: 0px)    and (max-width: 400px)  { .grid-sizer, .grid-item { width: 100%; } }
